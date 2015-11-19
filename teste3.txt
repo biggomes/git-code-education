@@ -1,1 +1,2 @@
 alterando o conteudo do arquivo teste3.txt
+nova alteração de contudo do arquivo texte3.txt
